@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "https://github.com/alester77/E-commerce-backend"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alexa Lester",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
